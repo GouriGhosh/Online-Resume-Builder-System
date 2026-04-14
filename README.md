@@ -3,6 +3,7 @@ Online Resume Builder System
 A full-stack Online Resume Builder Web Application built using PHP, MySQL, HTML, CSS, and JavaScript.
 This system allows users to create, manage, and download professional resumes with multiple templates.
 Features
+
 •	 User Authentication (Register / Login / Logout)
 •	 Forgot Password with OTP (Email-based verification)
 •	 Create Resume with detailed sections:
