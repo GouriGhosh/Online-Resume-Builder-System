@@ -1,0 +1,5 @@
+1. Put the folder inside htdocs
+2. Import resume_builder.sql into phpMyAdmin
+3. Open config/db.php and adjust credentials if needed
+4. Visit http://localhost/resume-builder-project/
+5. In DEV mode the OTP is shown on screen
